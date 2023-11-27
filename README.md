@@ -9,10 +9,24 @@ Currently, two official plugins are available:
 
 React is based on some important ES6 Javascript features
 -var, let, const
+
+
 -ternary operator
+
+
 -Modules(Import/Export)
+
+
 -Spread operator
+
+
 -Object destructuring
+
+
 -Arrow Function
+
+
 -Map Method
+
+
 -filter Method
