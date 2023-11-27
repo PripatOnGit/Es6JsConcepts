@@ -11,7 +11,7 @@ React is based on some important ES6 Javascript features
 -var, let, const
 
 
--ternary operator
+-Ternary operator
 
 
 -Modules(Import/Export)
@@ -29,4 +29,4 @@ React is based on some important ES6 Javascript features
 -Map Method
 
 
--filter Method
+-Filter Method
